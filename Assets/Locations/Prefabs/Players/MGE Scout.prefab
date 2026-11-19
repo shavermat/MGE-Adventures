@@ -315,6 +315,7 @@ MonoBehaviour:
   maxHealth: 100
   Power: 20
   currentHealth: 0
+  isBoss: 0
   BaseArmor: 0
   armor: 0
   maxArmor: 0
@@ -518,7 +519,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 5318557140807102051, guid: d7f35cff2b959c74b8a8212f4e4c2173, type: 3}
+  m_Sprite: {fileID: -2051947073, guid: d7f35cff2b959c74b8a8212f4e4c2173, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

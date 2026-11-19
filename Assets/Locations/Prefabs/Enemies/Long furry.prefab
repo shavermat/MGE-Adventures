@@ -683,7 +683,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0.46493557, y: -0.10425429}
+  m_AnchoredPosition: {x: 0.6779594, y: -0.10425429}
   m_SizeDelta: {x: 0.4688, y: 0.4482}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!222 &1537851909043687366
@@ -1078,6 +1078,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.001
       objectReference: {fileID: 0}
+    - target: {fileID: 4530221142262689430, guid: ea44a11b510e09945824f375b4faa390, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -467315993, guid: 9c6c5bd9c59269a4481f3c5b952cb13c, type: 3}
     - target: {fileID: 7905260741214158971, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_Name
       value: Stun Icon
@@ -1177,7 +1181,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2158858449290190702, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.35842368
+      value: 0.57685
       objectReference: {fileID: 0}
     - target: {fileID: 2158858449290190702, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1201,7 +1205,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3123128170427233699, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.7202138
+      value: 0.66
       objectReference: {fileID: 0}
     - target: {fileID: 3123128170427233699, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1214,7 +1218,7 @@ PrefabInstance:
     - target: {fileID: 4530221142262689430, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 1891312529, guid: 11138225d84f3a941a94ca7a66303a1c, type: 3}
+      objectReference: {fileID: 1056428443, guid: 11138225d84f3a941a94ca7a66303a1c, type: 3}
     - target: {fileID: 7905260741214158971, guid: ea44a11b510e09945824f375b4faa390, type: 3}
       propertyPath: m_Name
       value: Break Icon

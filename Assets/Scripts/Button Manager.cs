@@ -11,6 +11,7 @@ public class ButtonManager : MonoBehaviour
    public GameObject InfoPanel;
    public GameObject settingsMenu;
    public GameObject creatorsPanel;
+   public GameObject assetsMenu;
 
 
   [Header("Levels Menu")]
@@ -117,6 +118,12 @@ levelManager.NextLevel();
   public void Quit()
   {
     Application.Quit();
+  }
+    public void OpenAssetsMenu()
+  {
+       if (!assetsMenu.activeSelf) assetsMenu.SetActive(true);
+    
+    else if (assetsMenu.activeSelf) assetsMenu.SetActive(false);
   }
 
 

@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 291.6
+  spritePixelsToUnits: 749
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -94,6 +94,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -205,7 +218,7 @@ TextureImporter:
         width: 192
         height: 166
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -214,6 +227,28 @@ TextureImporter:
       bones: []
       spriteID: dabe16a993931584688eb1c009cc1397
       internalID: -1580582354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stun Icon_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 491
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ebc910b89481e4cafc8c0fc3fbedbb
+      internalID: -467315993
       vertices: []
       indices: 
       edges: []
@@ -237,6 +272,7 @@ TextureImporter:
       Stun Icon_2: 214397678855222404
       Stun Icon_3: -8676347482993908771
       Stun Icon_4: -1580582354
+      Stun Icon_5: -467315993
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
