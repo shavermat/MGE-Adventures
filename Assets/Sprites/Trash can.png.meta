@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 98bf7aec13827e74d8180ea42cb7f871
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8930622765715032393
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_0
+  - first:
+      213: 5163183611999348206
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_1
+  - first:
+      213: -5638804164516257106
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_2
+  - first:
+      213: 2016368388775804234
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_3
+  - first:
+      213: 7094665003047499718
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_4
+  - first:
+      213: 6637590201444525335
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_5
+  - first:
+      213: 7820897178270290275
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_6
+  - first:
+      213: 3417869045704288761
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_7
+  - first:
+      213: -1631579631032720243
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_8
+  - first:
+      213: -6197739415241197750
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_9
+  - first:
+      213: -1222097009060445867
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_10
+  - first:
+      213: 6262005398723401093
+    second: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 44
+        width: 146
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6f98a39ed001480800000000000000
+      internalID: -8930622765715032393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 80fc75a09270a374c85fcba3d9277f78
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_0: -8930622765715032393
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_1: 5163183611999348206
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_10: -1222097009060445867
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_11: 6262005398723401093
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_12: -963512128
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_13: 1627330326
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_2: -5638804164516257106
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_3: 2016368388775804234
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_4: 7094665003047499718
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_5: 6637590201444525335
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_6: 7820897178270290275
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_7: 3417869045704288761
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_8: -1631579631032720243
+      trash-can-pixel-art-260nw-2604365563-no-bg-preview (carve.photos)_9: -6197739415241197750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
