@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: ea7830c5b8e4c224c8f874ceb1261ffa
+guid: 5db5d47fbad45ac4a8818ec4903e00a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8001059884402305430
-    second: Scout 1_0
-  - first:
-      213: 7328898708333431063
-    second: Scout 1_1
+      213: 3565712382236772578
+    second: 98cd9f420e90f644977b589497a0b42a_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 511.4
+  spritePixelsToUnits: 211.5
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Scout 1_0
+      name: 98cd9f420e90f644977b589497a0b42a_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 658
-        height: 671
+        x: 80
+        y: 45
+        width: 373
+        height: 694
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6996d6cc299790f60800000000000000
-      internalID: 8001059884402305430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scout 1_1
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 0
-        width: 160
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71988098b8a75b560800000000000000
-      internalID: 7328898708333431063
+      spriteID: 2e84f6a0584fb7130800000000000000
+      internalID: 3565712382236772578
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Scout 1_0: 8001059884402305430
-      Scout 1_1: 7328898708333431063
+      98cd9f420e90f644977b589497a0b42a_0: 3565712382236772578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

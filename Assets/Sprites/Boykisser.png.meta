@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f1a62612f261aa94f9920fd963284226
+guid: c9ec9a8cb5b2c1d4d81319c650a47a9a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3664183145404326796
-    second: image_4da1acf0_0
+      213: 2947284425485011428
+    second: slashavaya hyinya_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 166.6
+  spritePixelsToUnits: 288.5
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: image_4da1acf0_0
+      name: slashavaya hyinya_0
       rect:
         serializedVersion: 2
-        x: 279
-        y: 24
-        width: 871
-        height: 744
+        x: 58
+        y: 15
+        width: 205
+        height: 270
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c836cc5382bc9d230800000000000000
-      internalID: 3664183145404326796
+      spriteID: 4e94311d19bd6e820800000000000000
+      internalID: 2947284425485011428
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      image_4da1acf0_0: 3664183145404326796
+      slashavaya hyinya_0: 2947284425485011428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

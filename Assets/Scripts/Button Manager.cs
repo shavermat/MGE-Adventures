@@ -121,9 +121,11 @@ levelManager.NextLevel();
   }
     public void OpenAssetsMenu()
   {
-       if (!assetsMenu.activeSelf) assetsMenu.SetActive(true);
-    
-    else if (assetsMenu.activeSelf) assetsMenu.SetActive(false);
+    assetsMenu.SetActive(true);
+  }
+      public void CloseAssetsMenu()
+  {
+     assetsMenu.SetActive(false);
   }
 
 

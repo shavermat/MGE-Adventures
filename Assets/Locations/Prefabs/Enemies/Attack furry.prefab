@@ -804,7 +804,7 @@ GameObject:
   - component: {fileID: 5059607441732968118}
   - component: {fileID: 9124618646628177085}
   m_Layer: 0
-  m_Name: "\u21162"
+  m_Name: Attack furry
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 616e018cd48ccd241a71c03ed44f0e15
+guid: cdfdc13cfbee4e0478a03c22c1f50cf2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -431018345095932120
-    second: DarkForest 1_0
+      213: -1761696380687661831
+    second: 2d26997c1ac470a686ed16d4a7b24e19_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 284.4
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DarkForest 1_0
+      name: 2d26997c1ac470a686ed16d4a7b24e19_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 596
-        height: 335
+        x: 87
+        y: 5
+        width: 387
+        height: 592
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82751e84917b40af0800000000000000
-      internalID: -431018345095932120
+      spriteID: 9f44503c9723d87e0800000000000000
+      internalID: -1761696380687661831
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      DarkForest 1_0: -431018345095932120
+      2d26997c1ac470a686ed16d4a7b24e19_0: -1761696380687661831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
