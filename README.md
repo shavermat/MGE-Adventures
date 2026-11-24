@@ -29,3 +29,5 @@ Black Ops One by James Grieshaber, Eben Sorkin (Sorkin Type Co.)
   License: SIL Open Font License, Version 1.1 (https://sil.org)
 
   Sound effect (`Menu button sound`) provided by [ZvukiPro.com](https://zvukipro.com).
+  
+  Sound effect (`Attack button sound`) provided by [ZvukiPro.com](https://zvukipro.com).
