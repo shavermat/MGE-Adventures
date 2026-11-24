@@ -1,0 +1,33 @@
+# Sprite Licenses & Attributions
+
+## Game-icons.net (CC BY 3.0)
+Icons licensed under [CC BY 3.0](https://creativecommons.org):
+
+BreakArmor.png — by Lorc (https://game-icons.net)
+configuration  — by Lorc (https://game-icons.net)
+    fire-flame — by sbed (https://game-icons.net)
+         Skull — by sbed (https://game-icons.net)
+     Stun icon — by Delapouite (https://game-icons.net)
+   turret icon — by sbed (https://game-icons.net)
+
+## Other Sources
+Battle Background — by saukgp (https://saurabhkgp.itch.io)
+                Boom icon — by Daniel Ramos (Vecteezy.com) under Free License
+Background levels menu — by Raul Ling on Unsplash: https://unsplash.com
+ Attack furry — by bvzzkill (DeviantArt, F2U)
+Boykisser — by Mauzymice
+Scared furry — by Tatujapa
+
+Fonts:
+Secret Solver by Hanief Farandi (Hanzel Space)  
+  Source: https://fontspace.com 
+  License: Free for Personal Use Only (Non-commercial).
+
+
+Black Ops One by James Grieshaber, Eben Sorkin (Sorkin Type Co.)  
+  Source: fonts.google.com  
+  License: SIL Open Font License, Version 1.1 (https://sil.org)
+
+  Sound effect (`Menu button sound`) provided by [ZvukiPro.com](https://zvukipro.com).
+  
+  Sound effect (`Attack button sound`) provided by [ZvukiPro.com](https://zvukipro.com).
