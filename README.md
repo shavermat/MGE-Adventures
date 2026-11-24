@@ -10,14 +10,13 @@ configuration  — by Lorc (https://game-icons.net)
      Stun icon — by Delapouite (https://game-icons.net)
    turret icon — by sbed (https://game-icons.net)
 
-
-                     ## Other Sources
-        Battle Background — by saukgp (https://saurabhkgp.itch.io)
+## Other Sources
+Battle Background — by saukgp (https://saurabhkgp.itch.io)
                 Boom icon — by Daniel Ramos (Vecteezy.com) under Free License
-   Background levels menu — by Raul Ling on Unsplash: https://unsplash.com
-             Attack furry — by bvzzkill (DeviantArt, F2U)
-                Boykisser — by Mauzymice
-             Scared furry — by Tatujapa
+Background levels menu — by Raul Ling on Unsplash: https://unsplash.com
+ Attack furry — by bvzzkill (DeviantArt, F2U)
+Boykisser — by Mauzymice
+Scared furry — by Tatujapa
 
 Fonts:
 Secret Solver by Hanief Farandi (Hanzel Space)  
